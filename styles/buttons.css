@@ -1,0 +1,63 @@
+.add-cart-btn{
+  font-family: Arial, Helvetica, sans-serif;
+  border-style: none;
+  background-color: rgb(255,216,20);
+  color: black;
+  width: 160px;
+  border-radius: 50px;
+  font-weight: bold;
+  padding: 8px ;
+}
+.uber-req-btn{
+  border-style: none;
+  background-color: black;
+  color: white;
+  width: 120px;
+  padding: 14px;
+  border-radius: 4px;
+  margin-left: 24px;
+}
+.uber-schedule-btn{
+  background-color: rgb(230,230,230);
+  color: black;
+  width: 160px;
+  padding: 14px;
+  border-style: none;
+  border-radius: 4px;
+  margin-left: 12px;
+}
+.game-btn{
+  background-color: rgb(230,230,230);
+  color: black;
+  border-style: none;
+  border-radius: 4px;
+  padding: 10px 18px;
+  color: black;
+  margin-left: 30px;
+  transition: 0.35s;
+  
+ 
+}
+.music-btn{
+  background-color: rgb(230,230,230);
+  color: black;
+  border-style: none;
+  border-radius: 4px;
+  padding: 10px 18px;
+  margin-left: 6px;
+ 
+}
+.tech-btn{
+  background-color: rgb(230,230,230);
+  color: black;
+  border-style: none;
+  border-radius: 4px;
+  padding: 10px 18px;
+  margin-left: 6px;
+ 
+}
+.is-toggled{
+  background-color: black;
+  color: white;
+  transition: 0.35s;
+}
